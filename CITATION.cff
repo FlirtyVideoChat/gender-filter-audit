@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Gender Filter Paywall Audit: Random Video Chat Platforms"
+abstract: >-
+  An audit of 17 random video chat platforms recording whether each offers a
+  gender filter, what it costs, and how the platform's public claims compare
+  with what its purchase screen displays. Eleven platforms have a gender
+  filter; none is usable free by a new account. Eleven rows are verified by
+  in-product screenshot, six from platforms' own published pages.
+authors:
+  - name: "FlirtyVideoChat"
+    website: "https://flirtyvideochat.com"
+version: "1.0.0"
+date-released: "2026-08-11"
+license: "CC-BY-4.0"
+url: "https://flirtyvideochat.com/gender-filter-video-chat-paywall-audit/"
+repository-code: "https://github.com/flirtyvideochat/gender-filter-audit"
+keywords:
+  - random video chat
+  - gender filter
+  - paywall
+  - dark patterns
+  - pricing transparency
+  - consumer protection
+type: dataset
