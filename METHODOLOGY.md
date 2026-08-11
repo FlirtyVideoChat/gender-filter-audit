@@ -28,9 +28,6 @@ Chatspin, Shagle, Chatrandom, Camgo, Flingster, Camsurf, Camloo, Bazoocam,
 Joingy, OmeTV, Emerald Chat, CooMeet, LuckyCrush, Monkey, Uhmegle, Azar,
 Chatroulette.
 
-FreeCam Chatter is deliberately not included — see the Disclosure section of
-the README.
-
 ## Fields
 
 | Column | Description |
